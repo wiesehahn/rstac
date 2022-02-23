@@ -130,7 +130,7 @@ extra functions for handling items and to bulk download the assets.
 ### Items functions
 
 `rstac` provides some functions to facilitates the interaction with STAC data.
-In the example bellow, we get how many items matched the search criteria:
+In the example below, we get how many items matched the search criteria:
 
 ```{R, echo=TRUE}
 # it_obj variable from the last code example
